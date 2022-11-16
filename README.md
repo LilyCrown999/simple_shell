@@ -1,2 +1,2 @@
 ## Simple Shell
-### Authored by Adesoye Michael
+### Authored by Olalekan Olatunji
